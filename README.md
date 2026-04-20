@@ -157,4 +157,10 @@ Comparison with classical methods:
 - NumPy
 - Tkinter
 - Matplotlib
+---
 
+## How to Run
+
+```bash
+pip install -r requirements.txt
+python ui.py
