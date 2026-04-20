@@ -27,7 +27,7 @@ Users can:
 - Pause / resume / reset tracking
 
 
-<img src="./assets/ui_demo.png" alt="demo" width="500"/>
+<img src="./assets/ui_demo.png" alt="demo" width="700"/>
 
 ---
 
@@ -83,7 +83,7 @@ efficient-object-tracking-MOSSE/
 
 ## Results
 
-### High PSR Tracking (Success Case)
+### High PSR Tracking Performance
 
 Robust tracking under occlusion and rotation.
 
