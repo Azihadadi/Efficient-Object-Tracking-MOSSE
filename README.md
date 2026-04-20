@@ -26,7 +26,8 @@ Users can:
 - Monitor tracking confidence (PSR)
 - Pause / resume / reset tracking
 
-![UI](assets/ui_demo.png)
+
+<img src="./assets/ui_demo.png" alt="demo" width="400"/>
 
 ---
 
