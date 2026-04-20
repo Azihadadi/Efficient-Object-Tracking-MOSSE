@@ -74,6 +74,7 @@ efficient-object-tracking-MOSSE/
 │   └── report.pdf
 │
 ├── ui.py
+├── requirements.txt
 └── README.md
 
 ```
